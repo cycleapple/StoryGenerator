@@ -34,7 +34,7 @@ The app will display a loading animation while it waits for the story to be gene
 
 ## Credits
 
-This app was created by [your-name-here]. It uses the [OpenAI GPT-3 API](https://openai.com/api/) for story generation, and was built using [Flask](https://flask.palletsprojects.com/en/2.1.x/) and [Bootstrap](https://getbootstrap.com/).
+This app was created by [MingTu]. It uses the [OpenAI GPT-3 API](https://openai.com/api/) for story generation, and was built using [Flask](https://flask.palletsprojects.com/en/2.1.x/) and [Bootstrap](https://getbootstrap.com/).
 
 ## License
 

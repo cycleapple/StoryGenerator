@@ -39,7 +39,7 @@ python app.py
 
 ## 貢獻者
 
-這個應用程式由 [your-name-here] 創建。它使用了 [OpenAI GPT-3 API](https://openai.com/api/) 來產生小說，並使用 [Flask](https://flask.palletsprojects.com/en/2.1.x/) 和 [Bootstrap](https://getbootstrap.com/) 來開發。
+這個應用程式由 [MingTu](https://github.com/cycleapple) 創建。它使用了 [OpenAI GPT-3 API](https://openai.com/api/) 來產生小說，並使用 [Flask](https://flask.palletsprojects.com/en/2.1.x/) 和 [Bootstrap](https://getbootstrap.com/) 來開發。
 
 ## 授權
 
