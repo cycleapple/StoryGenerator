@@ -1,3 +1,5 @@
+English | [繁體中文](https://github.com/cycleapple/StoryGenerator/blob/main/README_zh.md)
+
 # Short Story Generator
 
 This is a simple Flask app that generates short stories based on a user-provided theme. The app uses the OpenAI GPT-3 API to generate the stories, and allows the user to choose between English and Traditional Chinese language options.
