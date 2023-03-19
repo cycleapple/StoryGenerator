@@ -10,14 +10,17 @@ pip install -r requirements.txt
 
 You will also need to create a `.env` file in the root directory of the project and add your OpenAI API key to it in the following format:
 
+````
 OPENAI_API_KEY=<your-api-key>
-
+````
 
 Replace `<your-api-key>` with your actual API key, which you can obtain from the OpenAI website.
 
 Once you have installed the dependencies and added your API key, you can run the app by running the command:
 
+````
 python app.py
+````
 
 Then, navigate to `http://localhost:5000` in your web browser to access the app.
 
